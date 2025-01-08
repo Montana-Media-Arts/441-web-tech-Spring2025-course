@@ -7,7 +7,7 @@ module: 1
 
 That is it for Week 1. I hope you are excited for this course and everything we are going to learn this semester.
 
-Remember, if you need help, you should try using the course ["Issues Forum" hosted on GitHub](https://github.com/Montana-Media-Arts/441-WebTech-Spring2022-Examples/issues).
+Remember, if you need help, feel free to reach out using one of our various modes of communication.
 
 ## Study Groups
 
@@ -15,6 +15,4 @@ Another strategy I would suggest you adopt, regardless of whether you need help 
 
 ## Date Information
 
-If you have not noticed yet, active module dates are posted up above, along with the deadline for the week's homework.
-
-As a gentle reminder, you homework is due by {{ site.data.dates[1][1] }}.
+Please keep track of the due dates in Canvas.

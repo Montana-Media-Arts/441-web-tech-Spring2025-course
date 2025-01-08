@@ -23,7 +23,7 @@ Now that you have gone through the syllabus and its technical details and polici
 
 ## Text & Reading
 
-There will be a lot of reading.  But I will also supplement the course with some synchronous lectures to hopefully help guide and aid along the way. I recognize that this is not easy stuff.  Don't worry! We will get through this together even online!
+There will be some reading.  But I will also supplement the course with some vidoes to hopefully help guide and aid along the way. I recognize that this is not easy stuff.  Don't worry! We will get through this together even online!
 </div>
 
 <div id="Code" class="tabcontent" markdown="1">
