@@ -54,7 +54,7 @@ This course will _mostly_ run as weekly modules.
 
 When a module is released (i.e., it goes live on Moodle and this site), you will have one week to work through it, complete the homework, and submit your homework. You homework will always be due by 11:59 PM on the Monday of the next week.  Please don't wait until 11:59 PM to submit your homework.  Everyone tries and the Moodle might be on hiatus and then sad things can happen.
 
-For example, this module is opening on Monday, January 11th. Therefore, you have through next Monday, January 18th to complete the module.
+For example, this module is opening on Thursday, January 16th. Therefore, you have through next Tuesday, January 21th to complete the module (usually it would be Monday, but January 20th is MLK Day).
 
 </div>
 <div id="Homework" class="tabcontent" markdown="1">
@@ -75,9 +75,9 @@ When you have problems in this course, you have a number of solutions available 
 
 1. Google the problem.
     - A critical skill in creative technology is learning to problem solve. Part of this involves learning how to form a good google query. Your first go to for help should always be google.
-2. Post a message to the [Course Discord](https://discord.gg/HtHv3r8QSy)
+2. Post a message to the [Course Discord](https://discord.gg/8Dcdxf4Ve8)
     - Discord is like a massive chat where everyone can talk to one another in real time and help each other out with issues or just chat.
-3. Post to the [course issues forum](https://github.com/Montana-Media-Arts/441-WebTech-Spring2024-Examples/issues).
+3. Post to the [course issues forum](https://github.com/Montana-Media-Arts/441-WebTech-Spring2025-Examples/issues).
     - In a couple pages, you will follow along with a short tutorial that will help you signup for GitHub, then star and follow the "course repository". Part of this repository is an "issues forum" where you can post questions and problems you are having. These "issues" will be e-mailed to you, and you can then respond to them.
     - The advantage to the GitHub issues forum is its advanced system for including formatted code. This will help with problem solving.
 4. Get help from [Michael Cassens]({{site.baseurl}}/instructors/#instructor-prof-michael-cassens)

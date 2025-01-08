@@ -45,9 +45,6 @@ First, we will create a new repo directly on GitHub.com. We will then turn it on
 
 Your browser will now show you the brand new repository!
 
-Here is another walkthrough. This might take a few seconds to load.
-
-<iframe src="https://umontanamediaarts.com/MART341/wp-admin/admin-ajax.php?action=h5p_embed&id=10" width="748" height="665" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://umontanamediaarts.com/MART341/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 </div>
 
 <div id="Pages" class="tabcontent" markdown="1">
@@ -60,7 +57,7 @@ To turn your repo into a GH-Pages site, you need to open the "Repository Setting
 
 ![Repo Settings Button](../imgs/Screen7.png)
 
-1. Inside of settings, you will need to scroll down until you find the "Pages" section.
+1. Inside of settings, you will need to scroll down until you find the "Pages" section (on the left).
 2. There you need to change the dropdown menu under source from "None▾" to "Branch: master".
 3. Hit the "Save" button.
 4. The page should reload and at the top, should now be a blue banner saying "GitHub Pages source saved".
