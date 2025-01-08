@@ -47,6 +47,10 @@ jotted: false
 <p>Michael is currently at the University of Montana as an Assistant Professor of Media Arts. In addition to continuing his research, Michael is teaching courses within the Game Design and Interactive Media concentration. These courses focus on preparing students to contribute to the gaming, technical and artistic industries.  Below is a video of some of our students' work.</p>
 <p><a href="//www.youtube.com/embed/AnjxNmQlLns" data-lity>Game Design and Interactive Media Video</a></p>
 <p>He is also the Director of UM Esports, where we focus on diversity and inclusion in all that we do.  We compete in eight different games, including League of Legends, Overwatch, Pokemon Go, Tetris, Apex Legends, Super Smash Bros, Rocket League, and Starcraft 2. If you are interested in learning more, please feel free to visit our website at <a href="https://umontana.edu/psc/esports.php" target="_new">UM Esports</a> or contact me. Here is a video about out team.</p>
-<p><a href="//www.youtube.com/embed/GMrgHhKgHU0" data-lity>UM Esports Video</a></p>
+<!--<p><a href="//www.youtube.com/embed/GMrgHhKgHU0" data-lity>UM Esports Video</a></p>-->
+
+<p><a href="https://www.youtube.com/watch?v=fbbGEN6ZLSI
+" data-lity>UM Esports Video</a></p>
+
 <p>Before the Media Arts Department, Michael taught in the Computer Science Department for approximately 18 years as an Adjunct and Lecturer.  He has taught several courses, including Introduction to Programming, Fundamentals of Computer Science I and II, Data Structures, Algorithms, Software Science, Database Design, Game, and Mobile Application Programming, Advanced Client-Side Web Programming and Advanced Server-Side Web Programming. Michael also started his own consulting company in 2002, where he still operates building software for small to medium-sized businesses.  Michael has a BA in Biology as well as an M.S. Computer Science. Originally from Boulder, Colorado, St. Louis, MO, then, Hamilton, MT, Michael loves being outside with his family as well as mountain biking, snowboarding, hiking, photography, and just being in nature.</p>
 </div>

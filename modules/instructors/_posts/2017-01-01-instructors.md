@@ -20,7 +20,7 @@ Michael Cassens maintains this course. Please contact Michael with any problems.
 
 #### Office Hours
 
-Monday/Wednesday from 11 am - 12 pm or by appt
+Tuesday/Thursday from 10 am - 11 am or by appt
 <!--For those of you in Missoula, you are welcome to come by for help during my office hours. This is another way for getting in touch with me and getting my help.-->
 
 <!--- Mondays, Tuesdays and Wednesday:    1:00pm - 2:00pm-->
