@@ -26,6 +26,7 @@ To do this;
 - Click the "JavaScript" tab,
 - change the `"Make some changes and see what happens!"` text
     - perhaps add/change some more text?
+- next add a `prompt` and see what happens. *example: prompt('what is your name?;)*
 - You should now see your changes!
 - don't forget to go to the web console.
 
