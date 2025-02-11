@@ -205,8 +205,8 @@ So, what if we have two arrays and we want to put them together?  That is where 
         <script>
             function setInformation()
             {   
-                var bikes = ["Salsa", "Santa Cruz", "Orbea", "Kona"];
-                var models = ["Cutthroat", "5010", "Orca", "Jake the Snake"];
+                var bikes = ["Salsa", "Santa Cruz", "Deviate", "Kona"];
+                var models = ["Cutthroat", "5010", "Highlander", "Jake the Snake"];
                 var information = bikes.concat(models);
                 document.getElementById("info").innerHTML = information.toString();
             }
