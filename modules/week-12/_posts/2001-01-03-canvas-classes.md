@@ -82,7 +82,7 @@ class Square
 }
 
 ```
-Now, use the Square class and then use the fillRect above using the object you create.
+Now, use the Square class and then use the fillRect above using the object you create. (if you need a hint, watch the video)
 
 <p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="xxRNxRN" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/xxRNxRN">
